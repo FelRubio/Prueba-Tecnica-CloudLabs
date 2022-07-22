@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 1833986945}
   - component: {fileID: 1833986944}
   m_Layer: 0
-  m_Name: JsonManager
+  m_Name: JsonEventsHandler
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
